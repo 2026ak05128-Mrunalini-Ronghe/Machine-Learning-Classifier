@@ -30,7 +30,7 @@ The dataset satisfies the assignment requirements of at least 12 features and at
 
 GitHub repository: [https://github.com/2026ak05128-Mrunalini-Ronghe/Machine-Learning-Classifier.git](https://github.com/YOUR-GITHUB-USERNAME/ml-assignment-2)
 
-Live Streamlit app: [https://Machine-Learning-Classifier.streamlit.app]
+Live Streamlit app: [https://machine-learning-classifier.streamlit.app/]
 
 ## 4. Models Used
 
